@@ -16,3 +16,8 @@ a {
     color: whitesmoke;
     text-decoration: nomr;
 }
+
+img {
+    width: 150px;
+    height: 150px;
+}
