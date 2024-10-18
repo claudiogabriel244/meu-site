@@ -30,3 +30,30 @@ img {
 h1 {
     color: black;
 }
+
+footer img{
+    width: 40px;
+    height: 40px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 20PX;
+    text-align: center;
+}
+
+footer p{
+    margin-top: 2px;
+}
+
+::-webkit-textfield-decoration-container{
+    padding: 0px 50px;
+}
+
+nav a:hover {
+    color: dodgerblue;
+}
